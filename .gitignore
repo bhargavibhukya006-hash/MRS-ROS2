@@ -1,0 +1,6 @@
+control.txt
+agent_positions.txt
+__pycache__/
+*.pyc
+*.pkl
+*.pth
